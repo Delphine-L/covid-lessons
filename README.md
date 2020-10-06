@@ -1,3 +1,5 @@
+**This repository has been moved to https://github.com/galaxyproject/video-lectures/**
+
 # Automatic generation of material from Markdown document
 
 Framework to generate HTML, slides (HTML, pdf, images) and narrated videos (using ari) from markdown.
